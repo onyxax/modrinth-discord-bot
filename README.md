@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bot-icon.svg" width="96" alt="Modrinth Bot"/>
+  <img src="assets/bot-icon.png" width="96" alt="Modrinth Bot"/>
 </p>
 
 <h1 align="center">Modrinth Discord Bot <sub>(unofficial)</sub></h1>
