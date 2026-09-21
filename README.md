@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://cdn.modrinth.com/assets/ Modrinth icon or placeholder" width="80" alt="Modrinth Bot" onerror="this.style.display='none'"/>
-  <br/>
-  <img src="https://hylab.vercel.app/api/icons/package?color=00AF5C&size=64&format=png" width="64" alt="Modrinth Bot"/>
+  <img src="assets/bot-icon.svg" width="96" alt="Modrinth Bot"/>
 </p>
 
 <h1 align="center">Modrinth Discord Bot <sub>(unofficial)</sub></h1>
