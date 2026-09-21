@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.development
+
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Runtime data (keep structure, ignore content)
+src/data/*.json
+!src/data/.gitkeep
+server.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Scratch / Tests
+scratch/
+coverage/
+.nyc_output/
+
+# Assets cache
+assets/icons/cache/

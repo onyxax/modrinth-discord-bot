@@ -1,0 +1,156 @@
+[
+  {
+    "concept": "mods",
+    "lucide": "puzzle",
+    "url": "https://hylab.vercel.app/api/icons/puzzle?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🧩",
+    "file": "assets/icons/lucide/puzzle.png"
+  },
+  {
+    "concept": "modpacks",
+    "lucide": "package",
+    "url": "https://hylab.vercel.app/api/icons/package?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "📦",
+    "file": "assets/icons/lucide/package.png"
+  },
+  {
+    "concept": "resourcepacks",
+    "lucide": "paintbrush / palette",
+    "url": "https://hylab.vercel.app/api/icons/paintbrush?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🎨",
+    "file": "assets/icons/lucide/paintbrush.png + palette.png"
+  },
+  {
+    "concept": "shaders",
+    "lucide": "sparkles",
+    "url": "https://hylab.vercel.app/api/icons/sparkles?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "✨",
+    "file": "assets/icons/lucide/sparkles.png"
+  },
+  {
+    "concept": "datapacks",
+    "lucide": "folder",
+    "url": "https://hylab.vercel.app/api/icons/folder?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "📂",
+    "file": "assets/icons/lucide/folder.png"
+  },
+  {
+    "concept": "plugins",
+    "lucide": "plug-2",
+    "url": "https://hylab.vercel.app/api/icons/plug-2?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🔌",
+    "file": "assets/icons/lucide/plug-2.png"
+  },
+  {
+    "concept": "status",
+    "lucide": "server / globe",
+    "url": "https://hylab.vercel.app/api/icons/server?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🌐",
+    "file": "assets/icons/lucide/server.png"
+  },
+  {
+    "concept": "rank",
+    "lucide": "shield",
+    "url": "https://hylab.vercel.app/api/icons/shield?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🛡️",
+    "file": "assets/icons/lucide/shield.png"
+  },
+  {
+    "concept": "skin/user",
+    "lucide": "user-round",
+    "url": "https://hylab.vercel.app/api/icons/user-round?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "👤",
+    "file": "assets/icons/lucide/user-round.png"
+  },
+  {
+    "concept": "seeds",
+    "lucide": "sprout",
+    "url": "https://hylab.vercel.app/api/icons/sprout?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🌱",
+    "file": "assets/icons/lucide/sprout.png"
+  },
+  {
+    "concept": "discovery",
+    "lucide": "drafting-compass / search",
+    "url": "https://hylab.vercel.app/api/icons/drafting-compass?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🔭",
+    "file": "assets/icons/lucide/drafting-compass.png"
+  },
+  {
+    "concept": "random",
+    "lucide": "dices / dice-5",
+    "url": "https://hylab.vercel.app/api/icons/dices?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🎲",
+    "file": "assets/icons/lucide/dices.png"
+  },
+  {
+    "concept": "modlist",
+    "lucide": "list",
+    "url": "https://hylab.vercel.app/api/icons/list?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "📋",
+    "file": "assets/icons/lucide/list.png"
+  },
+  {
+    "concept": "notify",
+    "lucide": "bell",
+    "url": "https://hylab.vercel.app/api/icons/bell?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🔔",
+    "file": "assets/icons/lucide/bell.png"
+  },
+  {
+    "concept": "botstatus",
+    "lucide": "bar-chart-3",
+    "url": "https://hylab.vercel.app/api/icons/bar-chart-3?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "📊",
+    "file": "assets/icons/lucide/bar-chart-3.png"
+  },
+  {
+    "concept": "settings",
+    "lucide": "settings",
+    "url": "https://hylab.vercel.app/api/icons/settings?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "⚙️",
+    "file": "assets/icons/lucide/settings.png"
+  },
+  {
+    "concept": "add",
+    "lucide": "link-2",
+    "url": "https://hylab.vercel.app/api/icons/link-2?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🔗",
+    "file": "assets/icons/lucide/link-2.png"
+  },
+  {
+    "concept": "help",
+    "lucide": "book-open-check",
+    "url": "https://hylab.vercel.app/api/icons/book-open-check?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "📖",
+    "file": "assets/icons/lucide/book-open-check.png"
+  },
+  {
+    "concept": "download",
+    "lucide": "cloud-download",
+    "url": "https://hylab.vercel.app/api/icons/cloud-download?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "⬇️",
+    "file": "assets/icons/lucide/cloud-download.png"
+  },
+  {
+    "concept": "success",
+    "lucide": "check",
+    "url": "https://hylab.vercel.app/api/icons/check?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "✅",
+    "file": "assets/icons/lucide/check.png"
+  },
+  {
+    "concept": "error",
+    "lucide": "x",
+    "url": "https://hylab.vercel.app/api/icons/x?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "❌",
+    "file": "assets/icons/lucide/x.png"
+  },
+  {
+    "concept": "status dot",
+    "lucide": "circle / alert-circle",
+    "url": "https://hylab.vercel.app/api/icons/circle?color=00AF5C&size=64&format=png&stroke=2",
+    "emoji": "🟢/🔴",
+    "file": "assets/icons/lucide/circle.png"
+  }
+]

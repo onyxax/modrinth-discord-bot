@@ -1,0 +1,41 @@
+{
+  "name": "modrinth-discord-bot",
+  "version": "2.0.0",
+  "description": "Unofficial Modrinth Discord Bot — search mods, modpacks, shaders, resourcepacks, datapacks, plugins with Components V2, multilingual (en/ar/fr/hi) and notifications.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "node --watch ./src/index.js",
+    "lint": "node --check src/**/*.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "minecraft",
+    "modrinth",
+    "bot",
+    "components-v2",
+    "multilingual"
+  ],
+  "author": "onyxax",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onyxax/modrinth-discord-bot"
+  },
+  "bugs": {
+    "url": "https://github.com/onyxax/modrinth-discord-bot/issues"
+  },
+  "homepage": "https://github.com/onyxax/modrinth-discord-bot#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.6.1",
+    "axios": "^1.14.0",
+    "discord-api-types": "^0.38.43",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1"
+  }
+}
